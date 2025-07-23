@@ -78,5 +78,5 @@ As features mais importantes para prever o churn, de acordo com o modelo, foram:
 ## 👤 Autor
 
 * **[Leonardo Kirian]**
-* **LinkedIn:** `https://www.linkedin.com/in/leonardo-kirian-626017131/`
-* **GitHub:** `https://github.com/LeoKirian/`
+* **LinkedIn:** [Linkedin](https://www.linkedin.com/in/leonardo-kirian-626017131/)
+* **GitHub:** [GitHub](https://github.com/LeoKirian/)
